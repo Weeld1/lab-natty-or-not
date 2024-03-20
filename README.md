@@ -1,10 +1,10 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um simplest projeto para testar as capacidades da IA generativa de imagens do Bing.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Bing IA
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
