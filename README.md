@@ -1,10 +1,10 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Imagens Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Um simplest projeto para testar as capacidades da IA generativa de imagens do Bing.
+Um simples projeto para testar as capacidades da IA generativa de imagens do Bing.
 
 ## 🤖 Tecnologias Utilizadas
-Bing IA Designer (Plataforma DALL-E)
+Bing IA Designer (Plataforma DALL-E3)
 
 ## 🧐 Processo de Criação
 Durante este projeto fiz 3 versões do mesmo pront, com mudanças de estilo para visualizar o resultado. Os prompts foram:
