@@ -20,7 +20,7 @@ Durante este projeto fiz 3 versões do mesmo pront, com mudanças de estilo para
 
 ## 💭 Reflexão (Opcional)
 Sempre fui curioso com o processo de criação das imagens feitas por IA e como produziam com o mínimo de informações possível, por isso fiz as imagens com um prompt o mais vago possível.
-Os resultados foram interessante, o que eu pedi foi um personagem "homem" observando um objeto "lua", o primeiro resultado seguiu um estilo o mais realista possível e interessantemente
+Os resultados foram interessantes, o que eu pedi foi um personagem "homem" com uma característica "cabelos escuros" observando um objeto "lua", o primeiro resultado seguiu um estilo o mais realista possível e interessantemente
 colocou um background para o personagem que está sentado encostado em uma parede, e, sabendo que o personagem estava olhando para a lua, colocou um céu noturno sem a necessidade de ser
 especificado.
 
