@@ -4,7 +4,7 @@
 Um simplest projeto para testar as capacidades da IA generativa de imagens do Bing.
 
 ## 🤖 Tecnologias Utilizadas
-Bing IA
+Bing IA Designer (Plataforma DALL-E)
 
 ## 🧐 Processo de Criação
 Durante este projeto fiz 3 versões do mesmo pront, com mudanças de estilo para visualizar o resultado. Os prompts foram:
